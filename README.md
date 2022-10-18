@@ -8,8 +8,8 @@ I enjoy work at BackEnd, also, FrontEnd is good.
 
 
 
-###Where to find me
--
+## Where to find me
+-[LinkedIn](https://www.linkedin.com/in/jose-enrique-jimenez-soto-2549a8177/)
 -
 -
 

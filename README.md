@@ -6,19 +6,21 @@
 ### Hi there 👋
 
 ## About me
-I'm development.
-I enjoy work at BackEnd, also, FrontEnd is good.
+I am a highly skilled Software Developer with a strong background in programming languages and a proven track record of delivering high quality software solutions. Experienced in full-stack development and adapted at problem-solving and collaboration in diverse teams.
 
 ## Technologies
 -  PHP (Laravel)
 -  C# (.Net)
+-  JAVA
+-  Ruby (Rails)
 -  HTML
 -  CSS
--  JavaScript 
--  JAVA
+-  JavaScript
+-  React
 -  MySQL
 -  SQL Server
 -  PostgreSQL
+-  XD, Figma
 
 ## Where to find me
 -[LinkedIn](https://www.linkedin.com/in/jose-enrique-jimenez-soto-2549a8177/)
